@@ -15,4 +15,4 @@ In this series of experiments, I explore one form of automated pattern technique
 
 In essence, this is a wholly stochastic process with each iteration generating entirely new variants of the same image. Saving all images as vector graphics, we maintain perfect resolution of the image at all scales of zoom.
 
-[![Circle Packing a Tree](https://gifs.com/gif/processing-circle-packing-of-a-tree-GvZzGL)](https://youtu.be/QRoSSNxVaiQ)
+[![](https://gifs.com/gif/processing-circle-packing-of-a-tree-GvZzGL)](https://youtu.be/QRoSSNxVaiQ)
