@@ -1,5 +1,7 @@
-// Kevin Dick
-// Adapted from: Daniel Shiffman
+// Daniel Shiffman
+// http://codingtra.in
+// http://patreon.com/codingtrain
+// Code for: https://youtu.be/ERQcYaaZ6F0
 
 class Circle {
   float x;
@@ -18,7 +20,7 @@ class Circle {
 
   void grow() {
     if (growing) {
-      r = r + 0.5;
+      r = r + 0.1;
     }
   }
 
@@ -30,9 +32,8 @@ class Circle {
     //stroke(255);
     //strokeWeight(2);
     //noFill();
-    fill(c);
+    fill(255);
     noStroke();
     ellipse(x, y, r*2, r*2);
   }
 }
-
